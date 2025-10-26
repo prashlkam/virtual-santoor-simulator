@@ -1,0 +1,5 @@
+{
+  "name": "Virtual Santoor Simulator",
+  "description": "A web-based virtual Santoor instrument with recording, playback, and audio effects. Play notes using your mouse or keyboard, record your melodies, and save them to share. Features adjustable volume and reverb.",
+  "requestFramePermissions": []
+}
